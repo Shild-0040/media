@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Roxy-media-" />
+        <module name="Roxy-media-controller" />
+        <module name="Roxy-media-service" />
+        <module name="Roxy-media-main" />
+        <module name="Roxy-media-api" />
+        <module name="Roxy-media-orm" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Roxy-media-" target="1.8" />
+      <module name="Roxy-user-api" target="1.8" />
+      <module name="Roxy-user-controller" target="1.8" />
+      <module name="Roxy-user-main" target="1.8" />
+      <module name="Roxy-user-orm" target="1.8" />
+      <module name="Roxy-user-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

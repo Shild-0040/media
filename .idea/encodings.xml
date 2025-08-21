@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Roxy-media-/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Roxy-media-/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Roxy-media-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Roxy-media-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Roxy-media-controller/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Roxy-media-controller/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Roxy-media-main/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Roxy-media-main/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Roxy-media-orm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Roxy-media-orm/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Roxy-media-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Roxy-media-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Roxy-user-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Roxy-user-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Roxy-user-controller/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Roxy-user-controller/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Roxy-user-main/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Roxy-user-main/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Roxy-user-orm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Roxy-user-orm/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Roxy-user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Roxy-user-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$APPLICATION_HOME_DIR$/bin/src/main/java" charset="UTF-8" />
+    <file url="file://$APPLICATION_HOME_DIR$/bin/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
